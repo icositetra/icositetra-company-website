@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
-        subtitle: '決算公告 #1'
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
