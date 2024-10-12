@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: '決算公告 #1'
+        title: 第一期 (2023年7月期)
         tagline: This is the tagline
         subtitle: ''
         text: |
