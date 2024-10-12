@@ -16,9 +16,8 @@ sections:
         title: 第1期(2023年7月期)
         tagline: 2022年8月8日 ～ 2023年7月31日
         subtitle: ''
-        text: >
-          *  
-          [決算書PDF](https://icositetra-company-website-contents.netlify.app/public_notice/files/fs/fs2022.pdf)
+        text: |
+          *   [決算書PDF](https://icositetra.co.jp/images/fs2022.pdf)
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
