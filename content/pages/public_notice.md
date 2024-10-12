@@ -38,7 +38,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: 第2期 (2024年7月期)
         tagline: 2023年8月1日 ～ 2024年7月31日
         subtitle: ''
         text: |
