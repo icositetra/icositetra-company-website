@@ -72,7 +72,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "決算公告",
             "altText": "",
             "url": "/public_notice",
             "showIcon": false,
