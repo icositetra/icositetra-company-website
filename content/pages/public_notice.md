@@ -43,7 +43,7 @@ sections:
         subtitle: ''
         text: >
           *  
-          [決算書PDF](https://icositetra-company-winitial-primitive.netlify.app/public_notice/files/fs/fs2023.pdf)
+          [決算書PDF](https://icositetra-company-website-contents.netlify.app/public_notice/files/fs/fs2023.pdf)
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
