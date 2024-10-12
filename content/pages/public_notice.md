@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 第1期 (2023年7月期)
-        tagline: This is the tagline
+        tagline: 2022年8月8日 ～ 2023年7月31日
         subtitle: ''
         text: ''
         image:
