@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: '決算公告 #1'
         tagline: This is the tagline
         subtitle: ''
         text: |
