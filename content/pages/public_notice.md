@@ -16,7 +16,8 @@ sections:
         title: 第1期 (2023年7月期)
         tagline: 2022年8月8日 ～ 2023年7月31日
         subtitle: ''
-        text: ''
+        text: >
+          <https://icositetra-company-winitial-primitive.netlify.app/public_notice/files/fs/fs2022.pdf>
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
