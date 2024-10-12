@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 第1期 (2023年7月期)
