@@ -40,7 +40,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 第2期 (2024年7月期)
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
