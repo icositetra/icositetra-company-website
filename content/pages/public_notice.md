@@ -40,7 +40,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item Two
         tagline: 2023年8月1日 ～ 2024年7月31日
-        subtitle: 第2期 (2024年7月期)
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
