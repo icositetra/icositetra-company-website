@@ -41,8 +41,9 @@ sections:
         title: 第2期(2024年7月期)
         tagline: 2023年8月1日 ～ 2024年7月31日
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          *  
+          [決算書PDF](https://icositetra-company-winitial-primitive.netlify.app/public_notice/files/fs/fs2023.pdf)
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
