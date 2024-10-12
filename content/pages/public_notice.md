@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: 第1期 (2023年7月期)
         tagline: This is the tagline
-        subtitle: 2022年8月8日 ~ 2023年7月31日
+        subtitle: 2022年8月8日 ～ 2023年7月31日
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
