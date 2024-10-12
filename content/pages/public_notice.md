@@ -13,7 +13,7 @@ sections:
     subtitle: イコシテトラ株式会社
     items:
       - type: FeaturedItem
-        title: 第1期 (2023年7月期)
+        title: 第1期(2023年7月期)
         tagline: 2022年8月8日 ～ 2023年7月31日
         subtitle: ''
         text: >
